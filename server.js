@@ -3,7 +3,7 @@ const { spawn, exec } = require('child_process');
 const path = require('path');
 const fs = require('fs');
 const app = express();
-const port = 3000;
+const port = 9988;
 
 // ── Platform-aware binary names ────────────────────────────────────────────────
 const isWin = process.platform === 'win32';
