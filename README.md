@@ -1,6 +1,6 @@
 # 📥 YouTube Downloader (Fixed)
 
-> Based on [Dharaneesh20/Simple-Youtube-Downloader](https://github.com/Dharaneesh20/Simple-Youtube-Downloader)
+> Based on [Dharaneesh20/Simple-Youtube-Downloader](https://github.com/Dharaneesh20/Simple-Youtube-Downloader)  
 > Fixed by LavaDev — see **Bug Fixes** section below.
 
 ---
@@ -14,7 +14,8 @@
 
 ### macOS / Linux
 1. Install [Node.js](https://nodejs.org)
-2. Run: `chmod +x setup.sh && ./setup.sh` *(downloads yt-dlp automatically)*
+2. Run: `chmod +x setup.sh && ./setup.sh`  
+   *(downloads yt-dlp automatically)*
 
 ---
 
